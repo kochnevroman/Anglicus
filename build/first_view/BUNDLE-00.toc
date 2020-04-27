@@ -1,0 +1,4 @@
+([('first_view',
+   '/Users/Roman/Documents/Рома К/1 Studying/Искусственный '
+   'интеллект/courseWork/pyQt/dist/first_view',
+   'EXECUTABLE')],)
